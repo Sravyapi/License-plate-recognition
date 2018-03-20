@@ -9,6 +9,8 @@ In the center of all these systems lies a vehicle. In order to automate these pr
 make them more effective, a system is required to easily identify a vehicle. The important
 question here is how to identify a particular vehicle? The obvious answer to this question
 is by using the vehicle’s number plate.
+
+
 Vehicles in each country have a unique license number, which is written on its
 license plate. This number distinguishes one vehicle from the other, which is useful
 especially when both are of same make and model. An automated system can be
@@ -17,6 +19,8 @@ region containing a license plate. The license plate number can be used to retri
 information about the vehicle and its owner, which can be used for further processing.
 Such an automated system should be small in size, portable and be able to process data at
 sufficient rate. 
+
+
 Various license plate detection algorithms have been developed in past few years.
 Each of these algorithms has their own advantages and disadvantages. Arth et al.
 described the method in which license plate is detected using confidence related
